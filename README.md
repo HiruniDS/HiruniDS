@@ -1,3 +1,4 @@
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Hiruni De Silva</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
